@@ -1,0 +1,10 @@
+# Python virtual environments (recreate with: pip install -r requirements.txt)
+rl_env/
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+*.zip
+!agent/*.zip
+!training_logs/*.zip
+!experiments/**/*.zip
+video_tmp/
